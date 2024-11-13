@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abhijit
+- 👋 Hi, I’m Abhijit Kulkarni, final year computer science student
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning web developement technologies
 - 📫 How to reach me abhijitk2021@gmail.com
